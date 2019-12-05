@@ -4,11 +4,7 @@
 
 ### so, we just see all commands , which are used to work with git and Github.
 
-#
-#
-#
-#
-#
+
 
 ## 1. Create Directory for repo by:   
                    ` mkdir FolderName ` 
